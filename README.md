@@ -159,7 +159,8 @@ AI Multi-Agent Deal Finder/
 │   └── specialist_agent.py   # Domain expertise agent
 ├── deal_agent_framework.py   # Core framework
 ├── deal_agent_streamlit.py   # Web dashboard
-├── day*.ipynb                # Development notebooks
+├── days/                     # Development notebooks
+│   └── day*.ipynb           # Daily development files
 ├── pricer_service*.py        # Modal deployment services
 ├── items.py                  # Product item models
 ├── testing.py               # Testing utilities
@@ -183,8 +184,8 @@ modal deploy pricer_ephemeral.py
 ### Custom Models
 
 Train your own pricing models using the Jupyter notebooks:
-1. Start with `day2.0.ipynb` for data preparation
-2. Use `day2.1.ipynb` through `day2.4.ipynb` for model training
+1. Start with `days/day2.0.ipynb` for data preparation
+2. Use `days/day2.1.ipynb` through `days/day2.4.ipynb` for model training
 3. Deploy using the Modal services
 
 ### Memory Management
