@@ -35,8 +35,6 @@ The system consists of several specialized AI agents:
 
 ### Demo
 
-![Deal Finder Dashboard](https://via.placeholder.com/800x400/1f77b4/ffffff?text=AI+Multi-Agent+Deal+Finder+Dashboard)
-
 *Interactive Streamlit dashboard showing real-time deal analysis and opportunity tracking*
 
 ### Installation
