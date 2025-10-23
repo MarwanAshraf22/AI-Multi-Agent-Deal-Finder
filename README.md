@@ -43,7 +43,7 @@ The system consists of several specialized AI agents:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MarwanAshraf22/AI-Multi-Agent-Deal-Finder.git
    cd "AI Multi-Agent Deal Finder"
    ```
 
