@@ -76,7 +76,7 @@ The system consists of several specialized AI agents:
 
 ## 🎮 Usage
 
-### Method 1: Web Dashboard (Recommended)
+### Web Dashboard 
 
 Launch the interactive Streamlit dashboard:
 
